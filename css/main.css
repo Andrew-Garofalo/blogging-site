@@ -5,3 +5,10 @@ html, body {
 .post {
     background-color: #04E762;
 }
+
+header {
+    text-align: center;
+    display:block;
+    height: 10vh;
+    background-color: #EAEFBD;
+}
